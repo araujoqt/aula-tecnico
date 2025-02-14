@@ -10,8 +10,4 @@ idade = int(input("Digite sua idade:"))
 if idade < 18:
     print("Acesso negado!")
 else:
-    print("Acesso permitido!")
-
-# Exibindo dados (Saída)
-print()
-print(f"Idade: {idade}")
+     print("Acesso permitido!")
