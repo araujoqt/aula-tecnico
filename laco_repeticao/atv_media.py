@@ -8,7 +8,7 @@ for i in range(4):
     n1 = int(input(f"Digite a {i+1}° nota: "))
     soma += n1
 
-media = soma / 4     
+media = soma / 2   
 
 print()
 print(f"Média: {media}")  
