@@ -1,4 +1,0 @@
-bmw i8, bmw i8, esportivo, 5000000
-audi , audi r8, esportivo, 300000000
-jaguar, jaguar e-pace, SUV, 200000000000
-Chevrolet , Chevrolet Tracker , SUV, 30000000000000
